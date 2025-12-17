@@ -1,9 +1,18 @@
+Stop Losing Money to analytics
 PoochtachAI: Smart scalable zero code visual query platform built for data-driven insights.Trusted over 500 clients.Achieve 10X ROI.
 the largest visual query platform built for high-volume, hourly workforces. Trusted over 500 clients.Achieve 10X ROI.
 its a Zero code interacting with data analysis and empowers users leadership and cross-functional teams to derive meaningful insights .
 Support emerging technologies and provide insight for enterprise adoption.
 creating compelling visualizations to assist in identifying cost optimization opportunities. 
 GenAI-powered applications and user-friendly interfaces, ensuring robustness and exceptional user experience.
+Schedule a Demo
+Learn More
+Up to 20% overtime savings
+Up to 50% reduction in bulk repeated query response
+Minimum 10X ROI
+50-66% Time Savings for HR & Operations
+
+
 Strategy for Sustainable Growth
 
 30 Days of PoochtachAI 🎈
