@@ -1,12 +1,77 @@
-puchtachAI: Transforming Queries into Visuals
+PoochtachAI: Smart scalable zero code visual query platform built for data-driven insights.Trusted over 500 clients.Achieve 10X ROI.
+the largest visual query platform built for high-volume, hourly workforces. Trusted over 500 clients.Achieve 10X ROI.
+its a Zero code interacting with data analysis and empowers users leadership and cross-functional teams to derive meaningful insights .
+Support emerging technologies and provide insight for enterprise adoption.
+creating compelling visualizations to assist in identifying cost optimization opportunities. 
+GenAI-powered applications and user-friendly interfaces, ensuring robustness and exceptional user experience.
+Strategy for Sustainable Growth
 
+30 Days of PoochtachAI 🎈
+30 Days of PoochtachAI 🎈 is a free, self-paced 30 day challenge that teaches you how to build and deploy data apps with PoochtachAI. 
+====================
+
+     Month-To-Month service agreements
+     HIPPA Compliance , SOC2 Compliance
+     Dedicated client support multi-isualization options (bar, line, pie charts)
+     Integrates with major Database systems
+
+Healthcare | Manufacturing | Food | Retail & Hospitality | Education & Public Sector Workforce | Logistics
+PoochtachAI is the largest and most scalable absence management solution of its kind.
+PoochtachAI empowers HR and operations teams to focus less on resposing and more on visualize.
+All in one digital solution for Displays data ,Compares different categories and make visual  
+
+Feature
+========================
+Integrates with major HRIS/HCM systems
+Provides real-time chart visibility
+Risk mitigation for HR,compliance, and operations leaders.
+All in one digital solution for user query 
+Leading GEO TIME user query mitigation platform purpose-built to support large, distributed hourly workforces. 
+
+Investors and clients
+==============
+
+With over 500 clients—including Coca-Cola, Kraft Heinz, Kohler, and C&S Grocers—
+
+Technology
+====================
+interactive Voice Response (IVR) • Microsoft SQL Server • Microsoft Access
+
+Latest quarter commentary:
+====================
+
+Reduces response time by up to 50% through automated, policy-driven visual charts
+Cuts administrative workload by up to 66% by eliminating manual point entry and follow-ups
+Lowers overtime costs by up to 20%, as reported by clients 
+
+Integrated Business Model
+====================
+Seamlessly integrates with HRIS and timekeeping systems including ADP, UKG, Workday, and more
+multi-channel attendance tracking eliminates manual processes, captures real-time data across phone, text, app, and web, and integrates seamlessly
+
+WORKDAY
+ADP
+UKG
+SAP
+BAMBOOHR
+ORACLE
+
+At PoochtachAI, growth is exciting, but the real success is in the impact we create.
+Vision
+==================
+By the end of 2025, our clients are on pace to record about 1.53M absences.
+This number would rise to 1.98M–2.29M without PoochtachAI. 
+That’s hundreds of thousands of avoided call-offs and millions in productivity saved.
 
 
 Overview
 
-The "puchtachAI and Insightful Chart Generation" project is a cutting-edge application designed to revolutionize the way organizations interact with data. By combining the capabilities of advanced natural language processing (NLP) with dynamic data visualization, this solution enables both technical and non-technical users to seamlessly query and analyze data through simple English text inputs. This project is built on a foundation of modern AI technologies, providing an intuitive interface that democratizes data analysis and empowers users to derive meaningful insights without the need for coding or specialized database knowledge.
+The "puchtachAI magical simple Insightful Chart Generation" project is a cutting-edge application designed to revolutionize the way organizations interact with data. By combining the capabilities of advanced natural language processing (NLP) with dynamic data visualization, this solution enables both technical and non-technical users to seamlessly query and analyze data through simple English text inputs. This project is built on a foundation of modern AI technologies, providing an intuitive interface that democratizes data analysis and empowers users to derive meaningful insights without the need for coding or specialized database knowledge.
 
 Key Features:
+
+description
+Fundamentals introduces you to PoochtachAI's data model and development flow. You'll learn what makes PoochtachAI the most powerful way to build data apps, including the ability to display charts 
 
 1. Natural Language Processing (NLP):
 
@@ -20,6 +85,7 @@ Provides a range of visualization options (bar, line, pie charts) tailored to be
 
 Developed using Streamlit, the interface is clean, straightforward, and easy to navigate, ensuring a smooth user experience.
 Allows users to simply type their queries and instantly view both the raw data results and their graphical representations on the same platform.
+
 Technical Workflow:
 
 1. Query Input:
